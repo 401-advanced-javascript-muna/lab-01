@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-muna/lab-01/pulls)
+- [ci/cd](https://github.com/401-advanced-javascript-muna/lab-01/actions) (GitHub Actions)
 
 
 
@@ -17,10 +17,12 @@
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- How do you run tests? npm run test
+     
+- Any tests of note?no
+- Describe any tests that you did not complete, skipped, etc?completed
 
 #### UML
 
 Link to an image of the UML for your application and response to events
+![uml](uml.jpg)
